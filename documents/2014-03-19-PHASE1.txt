@@ -1,0 +1,8 @@
+1. Przygotowanie repozytorium GIT (KK)
+2. Przygotowanie repozytorium assembla.com (KK)
+3. Opis projektu i produktu (AG) - odpowiednia zmiana tego co mieliœmy na IO
+4. Organizacja zespo³u projektu (IB)
+5. Komunikacja w zespole (IB)
+6. Dokumentacja (AG)
+7. Wspó³dzielenie dokumentów i kodu (KK)
+8. Narzêdzia (KK)
